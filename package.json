@@ -65,7 +65,7 @@
     "grunt-text-replace": "^0.4.0",
     "grunt-yabs": "^1.1.4",
     "jsdoc": "~3.5.4",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "prettier": "^1.16.4",
     "qunit": "^2.9.2"
   },
